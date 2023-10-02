@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/814sid.gif"  />
+<img align="center" height="150" src="https://i.imgflip.com/814sid.gif"  />
 
 ###
 
