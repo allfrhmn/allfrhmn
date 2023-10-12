@@ -2,6 +2,6 @@
 
 ###
 
-<img width="200" src="https://i.imgflip.com/814sid.gif"  />
+<img height="200" src="https://i.imgflip.com/814sid.gif"  />
 
 ###
