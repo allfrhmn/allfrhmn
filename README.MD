@@ -1,9 +1,8 @@
-<h3>Hi 👋! My name is allfi.</h3>
+<h3>Hi 👋! My name is Allfiandi.</h3>
+<p>I am an Informatics Engineering student who wants to study software and network development. My main skills include PHP, Java, and Cisco Packet Tracer. I have interest and skills in programming, networking and enthusiasm.</p>
 
-<p>Saya adalah mahasiswa Teknik Informatika yang ingin belajar pada pengembangan perangkat lunak. Keahlian utama saya meliputi PHP dan Java. Saya memiliki minat dan keterampilan dalam pemrograman serta antusiasme.</p>
-
+<h3>My Languages</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=allfrhmn&show_icons=true&locale=en&layout=compact" alt="allfrhmn" /></p>
 
-<br>
-
+<h3>My Repositories & Commits</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=allfrhmn&show_icons=true&locale=en" alt="allfrhmn" /></p>
