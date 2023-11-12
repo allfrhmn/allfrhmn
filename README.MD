@@ -3,6 +3,3 @@
 
 <h3>My Languages</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=allfrhmn&show_icons=true&locale=en&layout=compact" alt="allfrhmn" /></p>
-
-<h3>My Repositories & Commits</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=allfrhmn&show_icons=true&locale=en" alt="allfrhmn" /></p>
